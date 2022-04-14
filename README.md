@@ -44,4 +44,4 @@ List of OpenSource Software (OSS) Projects, Meetups, Usergroups in Mauritius
 - and many more: (https://www.meetup.com/de-DE/cities/mu/grand_baie/?country=mu&zipstatecity=grand+baie&state=&radius=25)
 
 ## Guidlines / Paper
-- Consultancy Ser vices for developing a National Open Source Policy and Strategy and Action Plan for Mauritius (https://ncb.govmu.org/ncb/strategicplans/OpenSourceSoftwareStrategy.pdf)
+- Consultancy Services for developing a National Open Source Policy and Strategy and Action Plan for Mauritius (https://ncb.govmu.org/ncb/strategicplans/OpenSourceSoftwareStrategy.pdf)
